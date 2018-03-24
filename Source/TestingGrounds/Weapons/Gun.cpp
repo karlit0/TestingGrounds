@@ -23,13 +23,6 @@ AGun::AGun()
 	FP_MuzzleLocation->SetRelativeLocation(FVector(0.2f, 48.4f, -10.6f));
 }
 
-// Called when the game starts or when spawned
-void AGun::BeginPlay()
-{
-	Super::BeginPlay();
-	
-}
-
 // Called every frame
 void AGun::Tick(float DeltaTime)
 {

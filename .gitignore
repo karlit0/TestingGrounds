@@ -13,3 +13,4 @@ enc_temp_folder
 *.suo
 *.xcodeproj
 *.xcworkspace
+FirstPersonExampleMap_BuiltData.umap
